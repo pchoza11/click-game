@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "PFCast",
+    "image": "https://blacklapel.com/thecompass/wp-content/uploads/2017/04/Featured-Image1.png",
+    "clicked": false
+
+  },
+  {
+    "id": 2,
+    "name": "Vincent",
+    "image": "https://i.pinimg.com/originals/2e/1b/d3/2e1bd381e25e0980e6ceb713c6b4f258.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 3,
+    "name": "Wolf",
+    "image": "https://images.askmen.com/entertainment/galleries/top-50-all-time-tarantino-characters-135550186753.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 4,
+    "name": "Mia",
+    "image": "https://i.pinimg.com/originals/92/c8/f5/92c8f5d8c09c78f8985de9614eec165e.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 5,
+    "name": "Honey Bunny",
+    "image": "https://images.askmen.com/entertainment/galleries/top-50-all-time-tarantino-characters-135550293239.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 6,
+    "name": "Butch",
+    "image": "https://cdn.acidcow.com/pics/20121221/tarantino_17.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 7,
+    "name": "Father's Watch",
+    "image": "https://cdn.acidcow.com/pics/20121221/tarantino_11.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Jules",
+    "image": "https://images.askmen.com/entertainment/galleries/top-50-all-time-tarantino-characters-135543717318.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 9,
+    "name": "Cameo",
+    "image": "https://images.askmen.com/entertainment/galleries/top-50-all-time-tarantino-characters-135550364679.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Marcellus",
+    "image": "https://cdn.acidcow.com/pics/20121221/tarantino_25.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Lance",
+    "image": "https://img.izismile.com/img/img5/20121221/640/top_50_tarantino_characters_640_21.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Jules and Vince",
+    "image": "https://img-3.onedio.com/img/600/600/2r0/5427003862f697a50d2402a3.jpg",
+    "clicked": false
+  }
+]
