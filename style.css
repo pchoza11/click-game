@@ -1,0 +1,59 @@
+.nav-top{
+    display: flex;
+    position: fixed;
+    width: 100%;
+    padding-top: 5px;
+    z-index: 1;
+    margin-top: 0px;
+    background-color: yellow;
+}
+
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  background: #ECEFF1;
+  height: 100%;
+  width: 80%;
+  display: flex;
+  flex-flow: row wrap;
+  padding:  50px 20px 20px 20px;
+  margin-bottom: 100px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
+
+.card {
+  background: #fff;
+  border-radius: 2px;
+  height: 200px;
+  position: relative;
+  width: 200px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  text-align: left;
+  margin: 1%;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  transition: .2s;
+}
+
+.image {
+    height: 200px;
+    width: 200px;
+}
+
+.home-button{
+    text-align: center;
+    width: 33.33%;
+
+}
+.nav-instructions{
+    text-align: center;
+    width: 33.33%;
+}
+.nav-score{
+    text-align: center;
+    width: 33.33%;
+}
